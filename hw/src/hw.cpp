@@ -23,6 +23,8 @@ int main() {
 	// added together
 	sum = number1 + number2;
 	cout << "loading..." << endl;
-	cout << sum;
+	cout << sum << endl;
+
+	cout << "bye!" << endl;
 	return 0;
 }
